@@ -10,6 +10,9 @@ package domain;
  * @author Chen
  */
 public class Test {
-    System.out.println("test");
+    
+    public Test(){
+        System.out.println("Test");
+    }
     
 }
